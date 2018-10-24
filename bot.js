@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 client.on('ready', () => {
-  client.user.setGame('صلي علي النبي :heart: ','https://www.twitch.tv/TEST-Broadcast');
+  client.user.setGame('💕 صلي علي النبي 💕','https://www.twitch.tv/TEST-Broadcast');
   console.log('---------------');
   console.log(' Bot Is Online')
   console.log('---------------')
