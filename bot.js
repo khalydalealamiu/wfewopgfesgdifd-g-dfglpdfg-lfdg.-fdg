@@ -50,7 +50,7 @@ client.on('message', message => {
     })
     }
     });
-client.login('NTAzMzU1NDcyNzkxODYzMzA2.DrBwAg.ytK7HTl74ST48hQAmgvVV_rcqFA');
+client.login('');
 	client.on('message' , message => {
 if (message.content === '^owner') {
          let embed = new Discord.RichEmbed()
